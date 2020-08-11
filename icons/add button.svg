@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 57 57" style="enable-background:new 0 0 57 57;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#00D1A6;}
+	.st1{fill:#FFFFFF;}
+</style>
+<g id="Group_34" transform="translate(-316 -482)">
+	<g id="add_button" transform="translate(316 482)">
+		<path id="Rectangle_15" class="st0" d="M0,0h51c3.31,0,6,2.69,6,6v45c0,3.31-2.69,6-6,6H0l0,0V0L0,0z"/>
+	</g>
+	<g id="add_button-2" transform="translate(333 499)">
+		<path id="Rectangle_15-2" class="st1" d="M6,0h11c3.31,0,6,2.69,6,6v11c0,3.31-2.69,6-6,6H6c-3.31,0-6-2.69-6-6V6
+			C0,2.69,2.69,0,6,0z"/>
+	</g>
+	<path id="Icon_material-add-box" class="st0" d="M355.78,496h-22.56c-1.78,0-3.22,1.44-3.22,3.22c0,0,0,0,0,0v22.56
+		c0,1.78,1.44,3.22,3.22,3.22c0,0,0,0,0,0h22.56c1.78-0.01,3.22-1.44,3.22-3.22v-22.56C358.99,497.44,357.56,496.01,355.78,496z
+		 M352.56,512.11h-6.45v6.44h-3.22v-6.44h-6.45v-3.22h6.44v-6.45h3.22v6.44h6.44L352.56,512.11z"/>
+</g>
+</svg>

@@ -1,4 +1,29 @@
-*{
-    font-family: sans-serif;
-    box-sizing: border-box;
+html{
+    overflow: hidden;
+}
+
+.container.is-fluid{
+    padding: 0;
+}
+
+.logo{
+    img{
+        text-align: center;
+        width: 70%;
+
+    }
+}
+.aside{
+    height: 100vh;
+    background-color: #fafafa;
+    min-width: 250px;
+}
+.main{
+    background-color: #fdfdfd;
+}
+.menu-list{
+    a{
+        &:hover{
+        }
+    }
 }

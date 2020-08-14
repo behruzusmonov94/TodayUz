@@ -1,0 +1,78 @@
+*{
+    font-family: 'montserrat', sans-serif;
+    box-sizing: border-box;
+
+}
+
+
+body{
+    /* text-align: center; */
+}
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main{
+    width: 500px;
+    border: solid 1px #eee;
+    /* display: inline-block; */
+    border-radius: 10px;
+    height: 400px;
+}
+.main h1{
+    text-align: center;
+    background-color: blueviolet;
+    color: #fff;
+    padding: 20px;
+    margin: 0;
+    border-radius: 10px 10px 0px 0px;
+
+}
+.form{
+    padding: 10px 10px 30px 10px;
+    width: 100%;
+}
+.form input[type=text]{
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px;
+    border: none;
+    border-bottom: solid 1px #333;
+    margin-top: 20px;
+}
+.form select{
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: #fafafa;
+    border-radius: 6px;
+    border: solid 1px #f5f5f5;
+}
+
+.radio{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.btn{
+    text-align: center;
+    margin-top: 20px;
+}
+.form input[type=submit],input[type=reset]{
+    padding: 15px 30px;
+    border-radius: 6px;
+    background-color: #fafafa;
+    border: solid 1px #f5f5f5;
+    text-transform: uppercase;
+    font-weight: 600;
+    width: 200px;
+
+}
+.form input[type=submit]{
+    background-color: blueviolet;
+    color: #f5f5f5;
+}
